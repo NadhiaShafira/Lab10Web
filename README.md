@@ -93,8 +93,11 @@ Menggunakan file `list_mahasiswa.php` untuk menampilkan seluruh data dalam bentu
 
 Form input mahasiswa → memproses ke `proses_input.php` → insert ke database.
 
-📸 **Screenshot Form:** 13-form-input.png
-📸 **Screenshot Proses:** 14-proses-input.png
+📸 **Screenshot Form:** 
+
+![foto](https://github.com/NadhiaShafira/Lab10Web/blob/12c14e117c6d6d65ad76c7a6297d055da7f0f633/SS_Prak10/03-output-form-input..png)
+
+📸 **Screenshot Proses:** 
 
 ---
 
