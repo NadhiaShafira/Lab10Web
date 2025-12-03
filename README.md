@@ -52,7 +52,7 @@ File ini memanggil class Form dari `form.php` lalu menampilkan form input berisi
 
 📸 **Screenshot:** 
 
-![foto](https://github.com/NadhiaShafira/Lab10Web/blob/5719825a28611b2899b7424e4ee8a167287ef448/README.md)
+![foto](https://github.com/NadhiaShafira/Lab10Web/blob/9e89ac5f3122406cfd457f7088b2380a831cd4b6/SS_Prak10/03-output-form-input..png)
 
 ---
 
