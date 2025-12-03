@@ -109,9 +109,11 @@ Halaman edit memanggil data berdasar NIM, kemudian disimpan melalui `proses_edit
 
 📸 **Screenshot Edit:**
 
-![foto](
+![foto](https://github.com/NadhiaShafira/Lab10Web/blob/99546612e14d2f53f610ae5675587b5b0b43bc3e/SS_Prak10/07-output-edit-mahasiswa..png)
 
-📸 **Screenshot Proses Edit:** 16-proses-edit.png
+📸 **Screenshot Proses Edit:** 
+
+![foto](
 
 ---
 
