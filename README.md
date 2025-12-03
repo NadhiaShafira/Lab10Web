@@ -47,7 +47,9 @@ File ini memanggil class Form dari `form.php` lalu menampilkan form input berisi
 * Nama
 * Alamat
 
-📸 **Screenshot:** 13-form-input.png
+📸 **Screenshot:** 
+
+![foto](https://github.com/NadhiaShafira/Lab10Web/blob/5719825a28611b2899b7424e4ee8a167287ef448/README.md)
 
 ---
 
