@@ -22,11 +22,11 @@ Pada tahap ini dibuat file `mobil.php` berisi class:
 
 📸 **Screenshot:** 
 
-![foto](
+![foto](https://github.com/NadhiaShafira/Lab10Web/blob/9e14bf88bdeb51b65df3e2377963aaab66aa1e8b/SS_Prak10/01-output-mobil..png) 
 
 ---
 
-# ⭐ 2. Class Form (Modularisasi)
+# Class Form (Modularisasi)
 
 File `form.php` berisi class untuk membuat form secara dinamis dengan method:
 
