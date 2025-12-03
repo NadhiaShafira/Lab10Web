@@ -113,15 +113,17 @@ Halaman edit memanggil data berdasar NIM, kemudian disimpan melalui `proses_edit
 
 📸 **Screenshot Proses Edit:** 
 
-![foto](
+![foto](https://github.com/NadhiaShafira/Lab10Web/blob/824bff47d22dbfe13aa18eff481e1c554809a596/SS_Prak10/08-output-proses-edit..png)
 
 ---
 
-# ⭐ 10. Delete Data (Delete)
+# ⭐ Delete Data (Delete)
 
 Menghapus data mahasiswa melalui `delete_mahasiswa.php`.
 
-📸 **Screenshot:** 17-proses-delete.png
+📸 **Screenshot:** 
+
+![foto](
 
 ---
 
