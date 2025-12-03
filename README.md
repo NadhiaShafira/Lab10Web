@@ -2,9 +2,12 @@
 
 **Nama         : Nadhia Shafira**
 
+**NIM          : 312410498**
+
 **Kelas        : TI.24.A.5**
 
 **Matkul       : Pemograman Web 1**
+
 
 # 📝 Praktikum 10 — Pemrograman Web (PHP OOP)
 
@@ -12,7 +15,7 @@ Laporan ini berisi hasil pengerjaan Praktikum 10 yang mencakup konsep **Object-O
 
 ---
 
-# Program Class Mobil (OOP Dasar)
+# ⭐ Program Class Mobil (OOP Dasar)
 
 Pada tahap ini dibuat file `mobil.php` berisi class:
 
@@ -26,7 +29,7 @@ Pada tahap ini dibuat file `mobil.php` berisi class:
 
 ---
 
-# Class Form (Modularisasi)
+# ⭐ Class Form (Modularisasi)
 
 File `form.php` berisi class untuk membuat form secara dinamis dengan method:
 
@@ -39,7 +42,7 @@ File `form.php` berisi class untuk membuat form secara dinamis dengan method:
 
 ---
 
-# Implementasi Form (form_input.php)
+# ⭐ Implementasi Form (form_input.php)
 
 File ini memanggil class Form dari `form.php` lalu menampilkan form input berisi:
 
@@ -53,7 +56,7 @@ File ini memanggil class Form dari `form.php` lalu menampilkan form input berisi
 
 ---
 
-# Class Database (CRUD Modular)
+# ⭐ Class Database (CRUD Modular)
 
 File `database.php` berisi class Database lengkap dengan method:
 
@@ -69,7 +72,7 @@ File `database.php` berisi class Database lengkap dengan method:
 
 ---
 
-# Halaman Dashboard
+# ⭐ Halaman Dashboard
 
 Dashboard menampilkan jumlah total mahasiswa serta card informasi.
 
@@ -123,7 +126,7 @@ Menghapus data mahasiswa melalui `delete_mahasiswa.php`.
 
 📸 **Screenshot:** 
 
-![foto](
+![foto](https://github.com/NadhiaShafira/Lab10Web/blob/c5fc9b7ff9d6ecb713ff9ec73afb0ca90d6f3885/SS_Prak10/09-output-delete-mahasiswa.png.png)
 
 ---
 
@@ -148,19 +151,6 @@ lab10_php_oop/
 
 ---
 
-# ⭐ 12. Database Structure
-
-Tabel: **mahasiswa**
-
-```
-+--------+-----------+----------+
-| nim    | nama      | alamat   |
-+--------+-----------+----------+
-| PK     | VARCHAR   | VARCHAR  |
-```
-
----
-
 # Kesimpulan
 
 Pada praktikum ini berhasil dibuat:
@@ -174,8 +164,3 @@ Pada praktikum ini berhasil dibuat:
 Semua fungsi bekerja dengan baik tanpa error.
 
 ---
-
-
-
-💗 **Laporan selesai. Bila ingin diperbaiki gaya bahasanya atau versi PDF / Word, bilang saja!**
-
