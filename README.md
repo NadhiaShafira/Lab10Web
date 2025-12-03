@@ -39,7 +39,7 @@ File `form.php` berisi class untuk membuat form secara dinamis dengan method:
 
 ---
 
-# ⭐ 3. Implementasi Form (form_input.php)
+# Implementasi Form (form_input.php)
 
 File ini memanggil class Form dari `form.php` lalu menampilkan form input berisi:
 
@@ -53,7 +53,7 @@ File ini memanggil class Form dari `form.php` lalu menampilkan form input berisi
 
 ---
 
-# ⭐ 4. Class Database (CRUD Modular)
+# Class Database (CRUD Modular)
 
 File `database.php` berisi class Database lengkap dengan method:
 
@@ -63,23 +63,19 @@ File `database.php` berisi class Database lengkap dengan method:
 * `update()` (SUDAH diperbaiki)
 * `delete()`
 
-📸 **Screenshot:** 02-kode-database-php.png
+📸 **Screenshot:**
+
+![foto](https://github.com/NadhiaShafira/Lab10Web/blob/6f3b6fba085f9c6aa0e3b6e03d6f0c4cf8128051/SS_Prak10/04-kode-database-php..png)
 
 ---
 
-# ⭐ 5. Template Layout (Bootstrap Pink Theme)
-
-Aplikasi kini memakai tampilan konsisten melalui file `layout.php` (gabungan navbar, sidebar, footer).
-
-📸 **Screenshot Layout:** 10-layout-via-dashboard.png
-
----
-
-# ⭐ 6. Halaman Dashboard
+# Halaman Dashboard
 
 Dashboard menampilkan jumlah total mahasiswa serta card informasi.
 
-📸 **Screenshot:** 11-dashboard.png
+📸 **Screenshot:**
+
+![foto]
 
 ---
 
