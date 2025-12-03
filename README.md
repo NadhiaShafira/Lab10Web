@@ -75,11 +75,11 @@ Dashboard menampilkan jumlah total mahasiswa serta card informasi.
 
 📸 **Screenshot:**
 
-![foto]
+![foto](https://github.com/NadhiaShafira/Lab10Web/blob/a08457139260919343deba3c7bdbbed76a358b81/SS_Prak10/10-dashboard-cute-pink..png)
 
 ---
 
-# ⭐ 7. Menampilkan Semua Data Mahasiswa (Read)
+# ⭐ Menampilkan Semua Data Mahasiswa (Read)
 
 Menggunakan file `list_mahasiswa.php` untuk menampilkan seluruh data dalam bentuk tabel.
 
