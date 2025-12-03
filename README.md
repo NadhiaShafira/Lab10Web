@@ -33,7 +33,9 @@ File `form.php` berisi class untuk membuat form secara dinamis dengan method:
 * `addField()`
 * `displayForm()`
 
-📸 **Screenshot:** 03-kode-form-php.png
+📸 **Screenshot:**
+
+![foto](https://github.com/NadhiaShafira/Lab10Web/blob/0041945d07b92401c634efcd342f1f508b1682e0/SS_Prak10/02-kode-form-php..png) 
 
 ---
 
