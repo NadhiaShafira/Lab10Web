@@ -89,7 +89,7 @@ Menggunakan file `list_mahasiswa.php` untuk menampilkan seluruh data dalam bentu
 
 ---
 
-# ⭐ 8. Input Data (Create)
+# ⭐ Input Data (Create)
 
 Form input mahasiswa → memproses ke `proses_input.php` → insert ke database.
 
@@ -99,13 +99,18 @@ Form input mahasiswa → memproses ke `proses_input.php` → insert ke database.
 
 📸 **Screenshot Proses:** 
 
+![foto](https://github.com/NadhiaShafira/Lab10Web/blob/af54a2d26b702c84723c6c89e4cab34c0160e646/SS_Prak10/05-output-proses-input..png)
+
 ---
 
-# ⭐ 9. Edit Data (Update)
+# ⭐ Edit Data (Update)
 
 Halaman edit memanggil data berdasar NIM, kemudian disimpan melalui `proses_edit.php`.
 
-📸 **Screenshot Edit:** 15-edit-mahasiswa.png
+📸 **Screenshot Edit:**
+
+![foto](
+
 📸 **Screenshot Proses Edit:** 16-proses-edit.png
 
 ---
